@@ -9,9 +9,6 @@ This project involves analyzing the COVID-19 situation using SQL. The analysis p
 - [SQL Scripts](#sql-scripts)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
